@@ -3,14 +3,23 @@ This event will give you quick information about JHipster and show you how can y
 The following topics are covered in this webinar:
 
 What is JHipster?
+
 Example monolith application walkthrough (command line)
+
 What is JDL?
+
 JDL Studio
+
 Example JDL in monolithic application
+
 JHipster Continuous Integration (CI)
+
 Deploying JHipster monolithic application to Heroku
+
 What’s next?
+
 How to contribute
+
 Q & A
 
 Event Link: https://www.meetup.com/jhipster-nigeria/events/282021590
